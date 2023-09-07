@@ -1,0 +1,11 @@
+C:\Users\pilla\Desktop\TestExerciseStarkof\ObjectiveTestExercise2\publish\ObjectiveTestExercise2.exe
+C:\Users\pilla\Desktop\TestExerciseStarkof\ObjectiveTestExercise2\publish\appsettings.Development.json
+C:\Users\pilla\Desktop\TestExerciseStarkof\ObjectiveTestExercise2\publish\appsettings.json
+C:\Users\pilla\Desktop\TestExerciseStarkof\ObjectiveTestExercise2\publish\ObjectiveTestExercise2.dll
+C:\Users\pilla\Desktop\TestExerciseStarkof\ObjectiveTestExercise2\publish\ObjectiveTestExercise2.deps.json
+C:\Users\pilla\Desktop\TestExerciseStarkof\ObjectiveTestExercise2\publish\ObjectiveTestExercise2.runtimeconfig.json
+C:\Users\pilla\Desktop\TestExerciseStarkof\ObjectiveTestExercise2\publish\ObjectiveTestExercise2.pdb
+C:\Users\pilla\Desktop\TestExerciseStarkof\ObjectiveTestExercise2\publish\Microsoft.OpenApi.dll
+C:\Users\pilla\Desktop\TestExerciseStarkof\ObjectiveTestExercise2\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pilla\Desktop\TestExerciseStarkof\ObjectiveTestExercise2\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pilla\Desktop\TestExerciseStarkof\ObjectiveTestExercise2\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

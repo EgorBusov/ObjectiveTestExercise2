@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ObjectiveTestExercise2.props" />
+</Project>
