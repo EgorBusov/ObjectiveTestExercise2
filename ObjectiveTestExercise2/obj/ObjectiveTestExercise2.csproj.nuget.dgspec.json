@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pilla\\Desktop\\TestExerciseStarkof\\ObjectiveTestExercise2\\ObjectiveTestExercise2\\ObjectiveTestExercise2.csproj": {}
+    "C:\\Users\\pilla\\Desktop\\ObectiveTestExercise2\\ObjectiveTestExercise2\\ObjectiveTestExercise2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pilla\\Desktop\\TestExerciseStarkof\\ObjectiveTestExercise2\\ObjectiveTestExercise2\\ObjectiveTestExercise2.csproj": {
+    "C:\\Users\\pilla\\Desktop\\ObectiveTestExercise2\\ObjectiveTestExercise2\\ObjectiveTestExercise2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pilla\\Desktop\\TestExerciseStarkof\\ObjectiveTestExercise2\\ObjectiveTestExercise2\\ObjectiveTestExercise2.csproj",
+        "projectUniqueName": "C:\\Users\\pilla\\Desktop\\ObectiveTestExercise2\\ObjectiveTestExercise2\\ObjectiveTestExercise2.csproj",
         "projectName": "ObjectiveTestExercise2",
-        "projectPath": "C:\\Users\\pilla\\Desktop\\TestExerciseStarkof\\ObjectiveTestExercise2\\ObjectiveTestExercise2\\ObjectiveTestExercise2.csproj",
+        "projectPath": "C:\\Users\\pilla\\Desktop\\ObectiveTestExercise2\\ObjectiveTestExercise2\\ObjectiveTestExercise2.csproj",
         "packagesPath": "C:\\Users\\pilla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pilla\\Desktop\\TestExerciseStarkof\\ObjectiveTestExercise2\\ObjectiveTestExercise2\\obj\\",
+        "outputPath": "C:\\Users\\pilla\\Desktop\\ObectiveTestExercise2\\ObjectiveTestExercise2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

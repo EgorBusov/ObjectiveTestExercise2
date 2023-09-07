@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iSfEsiaNPYwcXlAQSJs7vQ4WtOLJI89ehYbim+TJwoQ2U7lIrGxGUnO2Gfirkn4Qc5vJcUjSD1bayMbHkPz44Q==",
+  "dgSpecHash": "mLOrE57wv7LyYB6elves8xrjHHVWu/FayBNgAvNmC0KmzqfdZyoV6O3YoxkYEx2I4yo4/1ucu+z1M1GiLZodPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pilla\\Desktop\\TestExerciseStarkof\\ObjectiveTestExercise2\\ObjectiveTestExercise2\\ObjectiveTestExercise2.csproj",
+  "projectFilePath": "C:\\Users\\pilla\\Desktop\\ObectiveTestExercise2\\ObjectiveTestExercise2\\ObjectiveTestExercise2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pilla\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\pilla\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
